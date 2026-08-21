@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-Product-focused frontend engineer with **1+ year** shipping scalable web apps — from AI agent platforms to immersive 3D interfaces. I go end-to-end: **Figma → code → production**.
+Product-focused frontend engineer with **2 year** shipping scalable web apps — from AI agent platforms to immersive 3D interfaces. I go end-to-end: **Figma → code → production**.
 
 Currently a **Junior Software Engineer at ClockHash Technologies**, building things that users actually love using.
 
